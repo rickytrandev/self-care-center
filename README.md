@@ -1,5 +1,3 @@
-# Self-Care Center 
-
 ### Abstract:
 How can I care for myself? One way is with affirmations and mantras!
 Affirmations are thoughts of positive self-empowerment, meant to assert your self-worth.
@@ -14,12 +12,19 @@ The app allows the user to select an affirmation or mantra to display. The user 
 - Open the index.html in your browser.
 
 ### Preview of App:
+<img width="1440" alt="image" src="https://github.com/rickytrandev/self-care-center/assets/105529508/58d29be4-7f43-4a83-ac8b-4ca74766ac85">
 
 
 ### Context:
 This Solo Challenge gives students and instructors the opportunity to get a pulse on where they are with the foundational concepts of Module 1 curriculum. Students use this as an opportunity to challenge themselves and work completely independently. This solo challenge was given on week 3 of Module 1 curriculum and students were given 5 days to complete the project along with any additional features. 
 
+MVP: 
+- Build out comp
 - When a user selects a message option and then clicks the “Receive Message” button, the user sees a random message from the list of possible messages for that category
+- When the message appears, the mediation icon disappears from the message area
+
+  
+Additional Features:
 - Users should not be able to click the “Receive Message” button unless they have selected a message option.
 - Users can click a clear button, which clears the page of any message.
 - Users should only be able to click the clear button if a message is visible.
@@ -32,7 +37,7 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 - Users should be able to remove a message from their list of favorites, by clicking a button.
 
 ### Contributors:
-[rickytrandev](https://github.com/rickytrandev)
+This was a solo project by me! Checkout my GitHub profile [here](https://github.com/rickytrandev)
 
 ### Learning Goals:
 - Gain experience building an application that utilizes HTML, CSS, and JavaScript
