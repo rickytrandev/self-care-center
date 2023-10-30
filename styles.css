@@ -70,7 +70,7 @@ button {
     margin-top: 80px;
     background-color: #ffffff;
     border-radius: 10px;
-    height: 150px;
+    height: 155px;
 }
 
 .message-style {
@@ -94,6 +94,10 @@ img {
 
 .favorite-btn {
     width: 20%;
+}
+
+.fav-view-btn {
+    width: 15%;
 }
 
 .fav-section {

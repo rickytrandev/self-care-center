@@ -45,7 +45,6 @@ function handleMsgClick(event) {
 }
 
 function createMessage() {
-
     switch (radioID) {
         case "affirmation":
             var randomIndex = getRandomIndex(affirmations)
@@ -77,6 +76,7 @@ function clearMessage() {
 function addToFavs() {
     var currentMessage = document.querySelector('.message').innerText
     favMessages.push(currentMessage)
+    show(viewFavsBtn)
 }
 
 function showFavsView() {
