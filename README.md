@@ -16,7 +16,8 @@ The app allows the user to select an affirmation or mantra to display. The user 
 
 
 ### Context:
-This Solo Challenge gives students and instructors the opportunity to get a pulse on where they are with the foundational concepts of Module 1 curriculum. Students use this as an opportunity to challenge themselves and work completely independently. This solo challenge was given on week 3 of Module 1 curriculum and students were given 5 days to complete the project along with any additional features. 
+
+This solo challenge was given on week 3 of Module 1 curriculum and students were given 5 days to complete the project along with any additional features. This Solo Challenge gives students and instructors the opportunity to get a pulse on where they are with the foundational concepts of Module 1 curriculum. Students use this as an opportunity to challenge themselves and work completely independently. 
 
 MVP: 
 - Build out comp
