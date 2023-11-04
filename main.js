@@ -67,7 +67,7 @@ function createMessage() {
 }
 
 function clearMessage() {
-    document.querySelector('.message').innerHTML = '<img src="/assets/meditate.svg" alt="meditation emoji">'
+    document.querySelector('.message').innerHTML = '<img src="assets/meditate.svg" alt="meditation emoji">'
     document.querySelector('.message').classList.remove("message-style");
     hide(clearBtn)
     hide(favBtn)
