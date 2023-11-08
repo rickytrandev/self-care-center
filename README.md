@@ -12,8 +12,8 @@ The app allows the user to select an affirmation or mantra to display. The user 
 - Open the index.html in your browser.
 
 ### Preview of App:
-<img width="1440" alt="image" src="https://github.com/rickytrandev/self-care-center/assets/105529508/58d29be4-7f43-4a83-ac8b-4ca74766ac85">
 
+https://github.com/rickytrandev/self-care-center/assets/105529508/8e7eff73-3b32-45d3-a1e0-6af149ed11b4
 
 ### Context:
 
